@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Online Cloth Store",
+    "description": "A modern e-commerce platform with shopping cart. Built with React and Node.js.",
+    "techStack": [
+      "React",
+      "Vite",
+      "Motion",
+      "Tailwind CSS"
+    ],
+    "liveUrl": "https://cloth-store-steel.vercel.app/",
+    "githubUrl": "https://github.com/Khan-Shuvo/cloth_store"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Platform",
+    "description": "A modern e-commerce platform with shopping cart. Built with React and Node.js.",
+    "techStack": [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Motion"
+    ],
+    "liveUrl": "https://shopee-store-sand.vercel.app/",
+    "githubUrl": "https://github.com/Khan-Shuvo/shopee_store"
+  },
+  {
+    "id": 3,
+    "title": "ToDo App",
+    "description": "A collaborative task management application with real-time updates",
+    "techStack": [
+      "React",
+      "Vite",
+      "Motion",
+      "Tailwind CSS"
+    ],
+    "liveUrl": "https://khan-shuvo.github.io/todo_app/",
+    "githubUrl": "https://github.com/Khan-Shuvo/todo_app"
+  },
+  {
+    "id": 4,
+    "title": "Weather Dashboard",
+    "description": "A beautiful weather application showing current conditions, forecasts, and interactive maps. Integrated with multiple weather APIs.",
+    "techStack": [
+      "Next.js",
+      "Type Script",
+      "API Integration",
+      "Tailwind CSS"
+    ],
+    "liveUrl": "https://next-weather-app-two-delta.vercel.app/",
+    "githubUrl": "https://github.com/Khan-Shuvo/next_weather_app"
+  }
+]
